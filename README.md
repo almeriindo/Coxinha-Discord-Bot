@@ -2,7 +2,7 @@
 
 ## Descrição:
 
-Coxinha é um bot feito para o Discord no qual você pode ser lembrado a fazer ações no bot [EPIC RPG](https://epic-rpg.fandom.com/pt-br/wiki/EPIC_RPG_Wiki)
+Coxinha é um bot feito em NodeJS para o Discord no qual você pode ser lembrado a fazer ações no bot [EPIC RPG](https://epic-rpg.fandom.com/pt-br/wiki/EPIC_RPG_Wiki).
 
 ## Convide o Coxinha para seu servidor:
 
